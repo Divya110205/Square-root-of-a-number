@@ -1,5 +1,5 @@
-# Find the square root of a number
-
+# Ex 2b: Find the square root of a number
+## DATE: 29.08.23
 ## AIM:
 To write a program to find the square root of a number.
 
